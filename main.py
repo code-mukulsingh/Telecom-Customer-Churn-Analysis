@@ -1,3 +1,5 @@
+#Mukul Singh
+#2026B01010032
 """
 ========================================================================================
 TELECOM CUSTOMER CHURN ANALYSIS - ALL-IN-ONE MASTER SCRIPT
