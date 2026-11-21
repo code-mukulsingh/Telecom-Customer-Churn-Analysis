@@ -1,0 +1,4 @@
+Internet_Service,Total_Customers,Churned_Count,Retained_Count,Churn_Rate (%),Retention_Rate (%)
+DSL,169,49,120,28.99,71.01
+Fiber,243,60,183,24.69,75.31
+Unknown,88,24,64,27.27,72.73

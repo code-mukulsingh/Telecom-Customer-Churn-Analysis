@@ -1,0 +1,10 @@
+Contract,Internet_Service,Total_Customers,Churn_Count,Retained_Count,Churn_Rate_Pct,Avg_Tenure_Months,Avg_Monthly_Charge,Avg_Support_Tickets
+Monthly,DSL,102,29,73,28.43,36.2,758.72,1.53
+Monthly,Fiber,125,32,93,25.6,36.1,762.49,1.79
+Monthly,Unknown,40,10,30,25.0,35.6,804.29,1.6
+One Year,DSL,33,11,22,33.33,34.2,702.56,1.3
+One Year,Fiber,62,16,46,25.81,35.4,712.0,1.39
+One Year,Unknown,24,9,15,37.5,36.0,728.02,1.38
+Two Year,DSL,34,9,25,26.47,36.6,761.97,1.74
+Two Year,Fiber,56,12,44,21.43,35.3,778.94,1.25
+Two Year,Unknown,24,5,19,20.83,37.4,683.2,1.54

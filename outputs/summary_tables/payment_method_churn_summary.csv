@@ -1,0 +1,5 @@
+Payment_Method,Total_Customers,Churned_Count,Retained_Count,Churn_Rate (%),Retention_Rate (%)
+Bank Transfer,138,41,97,29.71,70.29
+Card,119,32,87,26.89,73.11
+Cash,118,27,91,22.88,77.12
+UPI,125,33,92,26.4,73.6

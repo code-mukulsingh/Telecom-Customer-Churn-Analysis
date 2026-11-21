@@ -1,0 +1,4 @@
+Contract,Total_Customers,Churned_Count,Retained_Count,Churn_Rate (%),Retention_Rate (%)
+Monthly,267,71,196,26.59,73.41
+One Year,119,36,83,30.25,69.75
+Two Year,114,26,88,22.81,77.19

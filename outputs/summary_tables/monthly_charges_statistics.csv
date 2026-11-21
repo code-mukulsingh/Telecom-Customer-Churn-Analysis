@@ -1,0 +1,10 @@
+Statistic,NumPy_Value
+Count,500
+Mean,$751.20
+Median,$744.57
+Minimum,$199.00
+Maximum,$1454.05
+Standard Deviation,$219.47
+Variance,$48167.74
+25th Percentile (Q1),$624.71
+75th Percentile (Q3),$900.84

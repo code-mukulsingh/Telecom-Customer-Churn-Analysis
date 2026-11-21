@@ -1,0 +1,501 @@
+Customer_ID,Tenure_Months,Contract,Monthly_Charges,Internet_Service,Payment_Method,Support_Tickets,Churn
+CU0001,66,Monthly,896.26,Fiber,Bank Transfer,3,No
+CU0002,4,Two Year,446.95,DSL,Bank Transfer,2,No
+CU0003,45,Monthly,492.76,DSL,Card,2,No
+CU0004,32,One Year,205.23,Fiber,Cash,0,Yes
+CU0005,67,Monthly,720.44,DSL,Bank Transfer,2,No
+CU0006,37,Monthly,580.04,DSL,UPI,1,No
+CU0007,41,Monthly,551.26,Fiber,Cash,2,No
+CU0008,53,One Year,823.62,DSL,Cash,2,No
+CU0009,60,One Year,656.39,Fiber,Bank Transfer,0,No
+CU0010,38,Monthly,434.72,DSL,Cash,1,No
+CU0011,52,Monthly,1309.85,None,UPI,2,No
+CU0012,58,One Year,741.86,Fiber,Card,0,No
+CU0013,38,Monthly,511.7,DSL,UPI,0,Yes
+CU0014,52,One Year,602.64,Fiber,Card,0,No
+CU0015,27,Monthly,711.91,Fiber,Card,2,No
+CU0016,26,Two Year,711.45,None,Card,2,Yes
+CU0017,1,One Year,1036.48,Fiber,Card,1,No
+CU0018,49,Monthly,732.53,Fiber,Bank Transfer,1,No
+CU0019,19,One Year,1158.15,Fiber,UPI,2,No
+CU0020,59,Monthly,654.87,DSL,Card,1,Yes
+CU0021,69,Two Year,843.82,DSL,Cash,0,Yes
+CU0022,64,One Year,974.84,Fiber,Bank Transfer,0,No
+CU0023,20,Monthly,1012.93,Fiber,UPI,4,Yes
+CU0024,47,One Year,1038.61,Fiber,Card,5,Yes
+CU0025,55,Monthly,690.16,Fiber,Cash,3,No
+CU0026,37,Two Year,748.79,Fiber,UPI,0,Yes
+CU0027,37,Two Year,,DSL,Cash,6,No
+CU0028,32,One Year,706.88,DSL,Card,0,No
+CU0029,23,Monthly,990.08,Fiber,Bank Transfer,1,Yes
+CU0030,42,One Year,947.3,DSL,Card,2,No
+CU0031,72,Monthly,730.97,DSL,Bank Transfer,1,Yes
+CU0032,16,Monthly,1123.81,Fiber,Cash,1,Yes
+CU0033,4,Two Year,665.52,Fiber,UPI,2,No
+CU0034,5,Monthly,592.45,DSL,Card,1,No
+CU0035,42,Monthly,647.0,Fiber,Bank Transfer,1,No
+CU0036,20,Monthly,503.06,DSL,Card,0,No
+CU0037,34,Two Year,886.93,DSL,Card,1,No
+CU0038,69,Two Year,813.47,None,Cash,1,No
+CU0039,6,Monthly,884.2,Fiber,UPI,2,No
+CU0040,13,Monthly,658.84,Fiber,UPI,2,No
+CU0041,16,Two Year,737.22,None,Bank Transfer,1,No
+CU0042,33,Monthly,270.75,Fiber,UPI,2,Yes
+CU0043,50,Two Year,832.77,Fiber,UPI,3,No
+CU0044,14,Two Year,771.75,DSL,Cash,3,No
+CU0045,8,One Year,507.88,Fiber,Card,1,Yes
+CU0046,7,Monthly,726.98,DSL,UPI,2,No
+CU0047,58,One Year,693.27,None,Bank Transfer,0,No
+CU0048,3,Two Year,1138.15,DSL,Card,4,Yes
+CU0049,46,Monthly,516.55,Fiber,Card,3,No
+CU0050,42,Two Year,822.91,None,Card,1,No
+CU0051,8,Monthly,510.03,DSL,UPI,0,No
+CU0052,40,Two Year,627.27,Fiber,Cash,2,No
+CU0053,21,One Year,810.9,DSL,UPI,0,No
+CU0054,38,Monthly,703.5,Fiber,Card,5,No
+CU0055,10,Monthly,748.68,Fiber,Card,2,No
+CU0056,49,Monthly,823.2,DSL,Bank Transfer,1,Yes
+CU0057,58,Monthly,641.39,Fiber,Bank Transfer,2,No
+CU0058,1,Two Year,944.51,Fiber,Card,1,No
+CU0059,39,Monthly,682.79,DSL,Bank Transfer,1,No
+CU0060,47,Two Year,728.54,Fiber,UPI,0,No
+CU0061,1,Monthly,829.49,DSL,UPI,3,Yes
+CU0062,53,One Year,799.94,Fiber,Cash,0,Yes
+CU0063,40,Two Year,891.73,DSL,Bank Transfer,1,Yes
+CU0064,23,One Year,819.73,None,Bank Transfer,2,No
+CU0065,35,Two Year,853.19,Fiber,Cash,2,Yes
+CU0066,50,Two Year,678.42,DSL,Cash,0,No
+CU0067,47,One Year,514.87,Fiber,Bank Transfer,1,No
+CU0068,56,One Year,435.92,Fiber,Cash,4,No
+CU0069,3,Monthly,382.44,Fiber,Bank Transfer,1,No
+CU0070,57,Monthly,1137.8,Fiber,UPI,1,Yes
+CU0071,3,Monthly,263.19,Fiber,Bank Transfer,2,No
+CU0072,47,Two Year,1012.62,DSL,Cash,3,No
+CU0073,26,One Year,569.41,DSL,Cash,0,Yes
+CU0074,5,One Year,1011.02,None,Bank Transfer,3,No
+CU0075,50,Two Year,265.44,None,Cash,0,No
+CU0076,40,Monthly,698.28,Fiber,UPI,1,Yes
+CU0077,48,Two Year,1069.89,Fiber,UPI,1,No
+CU0078,28,Monthly,906.91,Fiber,Card,2,Yes
+CU0079,21,Monthly,675.8,DSL,UPI,1,Yes
+CU0080,45,One Year,322.54,None,Cash,1,Yes
+CU0081,16,Monthly,459.05,Fiber,UPI,1,No
+CU0082,59,One Year,1055.61,Fiber,Bank Transfer,0,No
+CU0083,50,One Year,673.39,Fiber,Cash,1,No
+CU0084,72,Two Year,734.2,None,UPI,3,No
+CU0085,2,Monthly,812.38,Fiber,UPI,0,No
+CU0086,43,Monthly,463.38,DSL,Bank Transfer,1,No
+CU0087,41,Monthly,839.6,Fiber,Cash,1,No
+CU0088,62,Monthly,657.68,Fiber,UPI,1,No
+CU0089,31,Monthly,814.61,Fiber,UPI,1,No
+CU0090,68,Monthly,622.83,DSL,Cash,3,No
+CU0091,18,Two Year,403.91,DSL,Bank Transfer,0,Yes
+CU0092,62,Two Year,655.98,Fiber,Bank Transfer,3,No
+CU0093,38,Two Year,,Fiber,Card,1,Yes
+CU0094,68,Monthly,836.69,Fiber,Card,1,No
+CU0095,16,One Year,756.8,Fiber,Card,1,No
+CU0096,19,Monthly,947.59,Fiber,UPI,4,Yes
+CU0097,41,Monthly,705.21,Fiber,Card,3,No
+CU0098,40,Monthly,762.38,DSL,Cash,1,No
+CU0099,11,Two Year,644.45,DSL,Bank Transfer,1,No
+CU0100,47,One Year,960.46,DSL,Cash,2,No
+CU0101,30,Monthly,814.14,DSL,Card,1,No
+CU0102,11,One Year,627.47,None,Cash,1,Yes
+CU0103,37,Two Year,422.41,None,Card,2,No
+CU0104,51,Monthly,993.09,Fiber,Bank Transfer,1,No
+CU0105,3,Two Year,586.31,Fiber,Bank Transfer,2,No
+CU0106,67,Monthly,765.85,Fiber,Cash,2,No
+CU0107,44,Monthly,1267.57,None,Cash,0,No
+CU0108,19,Two Year,926.33,Fiber,UPI,2,Yes
+CU0109,55,Monthly,1104.45,Fiber,Cash,3,No
+CU0110,61,One Year,631.61,DSL,Bank Transfer,0,No
+CU0111,69,Monthly,985.61,DSL,Bank Transfer,2,No
+CU0112,57,One Year,755.87,DSL,UPI,1,Yes
+CU0113,15,One Year,830.52,DSL,Card,1,No
+CU0114,12,Two Year,1194.59,DSL,Cash,2,No
+CU0115,16,Two Year,688.7,None,Cash,3,Yes
+CU0116,64,One Year,754.24,Fiber,UPI,3,Yes
+CU0117,22,Monthly,551.29,None,Card,0,No
+CU0118,24,Monthly,945.46,DSL,Cash,4,Yes
+CU0119,65,One Year,626.66,Fiber,Cash,1,No
+CU0120,15,Monthly,975.0,None,Card,0,No
+CU0121,30,Monthly,387.02,None,Cash,0,No
+CU0122,22,Two Year,870.7,DSL,Cash,1,No
+CU0123,22,Monthly,608.39,None,UPI,1,No
+CU0124,43,Monthly,910.71,Fiber,UPI,1,Yes
+CU0125,54,Two Year,747.02,Fiber,UPI,0,No
+CU0126,20,One Year,632.23,Fiber,UPI,1,Yes
+CU0127,3,One Year,664.96,None,Bank Transfer,3,Yes
+CU0128,47,Monthly,562.91,DSL,Card,0,Yes
+CU0129,40,Monthly,934.31,None,Bank Transfer,2,No
+CU0130,48,One Year,519.3,DSL,UPI,0,Yes
+CU0131,33,Monthly,691.24,DSL,Bank Transfer,2,Yes
+CU0132,56,One Year,825.95,Fiber,Bank Transfer,2,No
+CU0133,45,Monthly,1104.97,Fiber,Cash,2,Yes
+CU0134,55,Monthly,747.95,Fiber,Card,1,No
+CU0135,53,Monthly,696.65,DSL,Bank Transfer,4,No
+CU0136,36,Monthly,810.2,Fiber,Card,1,No
+CU0137,24,Monthly,293.84,None,Card,2,Yes
+CU0138,42,One Year,486.3,DSL,Bank Transfer,1,Yes
+CU0139,46,One Year,667.42,Fiber,Bank Transfer,1,No
+CU0140,42,Monthly,593.15,None,Cash,1,No
+CU0141,38,One Year,397.82,DSL,UPI,3,Yes
+CU0142,25,Monthly,938.71,DSL,UPI,3,No
+CU0143,10,Monthly,807.15,Fiber,Bank Transfer,1,No
+CU0144,31,Two Year,780.86,Fiber,Bank Transfer,0,Yes
+CU0145,64,One Year,597.32,Fiber,Cash,1,No
+CU0146,52,One Year,767.47,DSL,Bank Transfer,1,No
+CU0147,55,Monthly,863.18,DSL,UPI,2,No
+CU0148,54,Monthly,691.72,None,Card,1,No
+CU0149,67,One Year,847.81,None,Cash,0,No
+CU0150,17,One Year,574.87,Fiber,Cash,0,No
+CU0151,52,One Year,771.45,None,Cash,2,No
+CU0152,6,Two Year,1001.35,Fiber,Card,1,No
+CU0153,18,Monthly,1021.04,Fiber,UPI,3,No
+CU0154,3,Two Year,1042.07,DSL,UPI,2,No
+CU0155,31,One Year,812.83,None,Cash,4,Yes
+CU0156,11,Monthly,756.96,None,Card,3,No
+CU0157,28,Monthly,651.27,DSL,Cash,3,No
+CU0158,10,One Year,352.35,Fiber,UPI,0,No
+CU0159,3,Monthly,454.12,Fiber,Card,2,No
+CU0160,35,One Year,713.03,Fiber,Cash,6,No
+CU0161,30,One Year,726.18,DSL,UPI,5,No
+CU0162,31,Monthly,1060.69,Fiber,UPI,0,No
+CU0163,25,Monthly,1039.26,Fiber,Card,1,Yes
+CU0164,30,One Year,598.97,Fiber,UPI,1,No
+CU0165,1,Monthly,930.03,DSL,Bank Transfer,0,Yes
+CU0166,35,Two Year,645.04,DSL,UPI,1,No
+CU0167,61,Monthly,900.18,Fiber,UPI,0,No
+CU0168,11,Two Year,927.32,Fiber,Bank Transfer,0,No
+CU0169,11,Monthly,1023.26,DSL,Card,3,Yes
+CU0170,57,Monthly,641.62,DSL,Bank Transfer,0,No
+CU0171,37,One Year,973.15,Fiber,Cash,4,No
+CU0172,19,Monthly,337.98,Fiber,Cash,2,No
+CU0173,57,Monthly,1035.17,None,Bank Transfer,0,Yes
+CU0174,24,Monthly,744.5,DSL,Cash,3,Yes
+CU0175,44,One Year,749.18,Fiber,Bank Transfer,0,No
+CU0176,41,One Year,301.76,DSL,UPI,2,No
+CU0177,13,Monthly,664.49,DSL,Cash,4,No
+CU0178,55,Monthly,1048.21,Fiber,Bank Transfer,4,No
+CU0179,45,Monthly,656.13,Fiber,UPI,2,No
+CU0180,16,Two Year,906.96,None,Bank Transfer,2,No
+CU0181,55,Monthly,757.6,DSL,UPI,1,Yes
+CU0182,45,One Year,983.79,Fiber,Bank Transfer,3,Yes
+CU0183,62,Monthly,792.13,DSL,Bank Transfer,0,Yes
+CU0184,60,One Year,545.0,Fiber,UPI,2,No
+CU0185,23,Two Year,762.42,DSL,Card,1,No
+CU0186,68,Monthly,1102.27,Fiber,UPI,0,No
+CU0187,3,One Year,859.48,Fiber,UPI,2,No
+CU0188,25,Monthly,724.38,Fiber,UPI,3,No
+CU0189,44,One Year,1246.26,None,Cash,0,No
+CU0190,39,Monthly,1005.03,DSL,Card,0,No
+CU0191,17,Monthly,929.68,DSL,UPI,0,Yes
+CU0192,15,Monthly,819.82,Fiber,Bank Transfer,4,Yes
+CU0193,57,Monthly,910.66,DSL,Bank Transfer,3,No
+CU0194,64,Two Year,917.8,Fiber,UPI,0,No
+CU0195,49,One Year,269.78,DSL,Bank Transfer,2,No
+CU0196,39,Monthly,836.89,Fiber,UPI,3,No
+CU0197,56,Monthly,714.62,DSL,Bank Transfer,2,No
+CU0198,18,One Year,640.05,Fiber,Cash,1,No
+CU0199,70,Monthly,707.0,Fiber,Card,6,No
+CU0200,9,Monthly,407.71,DSL,Bank Transfer,1,No
+CU0201,43,One Year,352.99,Fiber,UPI,1,No
+CU0202,25,Monthly,1024.23,Fiber,Card,2,No
+CU0203,66,Monthly,851.67,None,Cash,1,No
+CU0204,18,Monthly,219.14,Fiber,UPI,0,No
+CU0205,47,Monthly,623.2,DSL,Cash,1,No
+CU0206,12,One Year,943.72,DSL,UPI,2,Yes
+CU0207,14,One Year,688.4,DSL,Card,1,No
+CU0208,30,Two Year,1023.9,Fiber,UPI,1,No
+CU0209,58,Monthly,980.95,DSL,UPI,1,Yes
+CU0210,21,One Year,451.52,DSL,Card,2,No
+CU0211,50,Two Year,718.47,Fiber,Bank Transfer,3,No
+CU0212,42,One Year,651.42,DSL,Bank Transfer,1,No
+CU0213,71,Two Year,444.37,None,Card,1,No
+CU0214,22,Two Year,430.06,Fiber,Card,2,No
+CU0215,18,Two Year,572.68,Fiber,UPI,1,No
+CU0216,65,Two Year,609.0,DSL,Bank Transfer,0,No
+CU0217,24,One Year,812.31,Fiber,UPI,2,No
+CU0218,16,Monthly,979.73,DSL,Cash,2,No
+CU0219,60,Two Year,863.0,Fiber,UPI,1,No
+CU0220,59,Two Year,915.08,Fiber,Bank Transfer,0,No
+CU0221,5,Monthly,691.34,DSL,Card,2,No
+CU0222,62,Monthly,882.66,None,Cash,2,No
+CU0223,46,Monthly,717.36,Fiber,Card,1,No
+CU0224,21,Two Year,652.88,None,Cash,2,No
+CU0225,39,Monthly,1167.36,Fiber,Cash,1,No
+CU0226,18,Monthly,237.3,Fiber,Card,5,No
+CU0227,13,Monthly,337.87,DSL,Card,0,No
+CU0228,10,Monthly,834.19,Fiber,Card,1,No
+CU0229,12,Two Year,691.7,DSL,Card,2,Yes
+CU0230,42,Monthly,433.86,Fiber,Card,5,Yes
+CU0231,59,Monthly,517.99,Fiber,UPI,1,No
+CU0232,36,Monthly,546.63,Fiber,Card,7,No
+CU0233,2,One Year,946.31,DSL,Cash,1,Yes
+CU0234,31,One Year,,None,Cash,0,No
+CU0235,54,Monthly,1110.7,Fiber,UPI,3,No
+CU0236,61,Monthly,400.42,Fiber,Bank Transfer,1,Yes
+CU0237,53,Two Year,449.23,None,UPI,2,No
+CU0238,27,One Year,434.16,Fiber,Bank Transfer,1,Yes
+CU0239,47,One Year,1033.55,DSL,Bank Transfer,3,No
+CU0240,5,Monthly,841.79,DSL,Cash,1,No
+CU0241,30,Two Year,767.64,None,Bank Transfer,1,No
+CU0242,39,One Year,800.52,Fiber,Cash,0,No
+CU0243,3,Monthly,737.51,Fiber,Cash,0,No
+CU0244,2,Two Year,503.35,Fiber,Bank Transfer,1,No
+CU0245,58,Two Year,862.9,Fiber,Card,2,No
+CU0246,16,One Year,709.05,Fiber,Card,0,No
+CU0247,10,One Year,485.93,None,Card,0,Yes
+CU0248,43,Monthly,876.34,Fiber,Card,3,No
+CU0249,21,Monthly,656.33,Fiber,Card,0,Yes
+CU0250,71,Monthly,800.05,Fiber,Card,0,No
+CU0251,69,One Year,722.5,Fiber,Bank Transfer,1,No
+CU0252,60,Monthly,,DSL,Card,1,No
+CU0253,22,Monthly,798.44,Fiber,Card,2,Yes
+CU0254,64,Two Year,555.59,DSL,Bank Transfer,1,Yes
+CU0255,19,Monthly,820.84,DSL,Card,2,Yes
+CU0256,18,Two Year,828.03,Fiber,UPI,3,No
+CU0257,71,Monthly,862.49,DSL,UPI,1,No
+CU0258,49,Monthly,977.89,Fiber,Cash,1,No
+CU0259,7,Monthly,614.48,Fiber,Cash,2,Yes
+CU0260,64,Monthly,896.95,None,Bank Transfer,3,Yes
+CU0261,12,Monthly,370.54,None,UPI,1,No
+CU0262,50,Monthly,723.6,Fiber,Bank Transfer,1,No
+CU0263,32,One Year,689.57,Fiber,Card,1,No
+CU0264,2,Monthly,1068.53,Fiber,Card,0,Yes
+CU0265,57,Monthly,715.61,DSL,Cash,4,Yes
+CU0266,50,Monthly,883.76,DSL,Cash,1,No
+CU0267,64,Monthly,362.41,Fiber,Bank Transfer,1,No
+CU0268,45,Monthly,672.61,None,Bank Transfer,2,No
+CU0269,55,Monthly,563.8,DSL,Bank Transfer,1,Yes
+CU0270,66,One Year,1294.61,Fiber,Cash,4,Yes
+CU0271,71,One Year,603.3,None,Bank Transfer,2,No
+CU0272,41,Two Year,766.12,DSL,Bank Transfer,1,No
+CU0273,2,One Year,777.85,Fiber,UPI,1,No
+CU0274,25,Monthly,400.31,DSL,Cash,1,No
+CU0275,45,Monthly,634.27,None,Cash,1,No
+CU0276,8,Monthly,839.05,None,Card,1,Yes
+CU0277,9,One Year,768.86,Fiber,Card,1,No
+CU0278,29,Monthly,243.91,DSL,Cash,1,Yes
+CU0279,66,Monthly,625.26,None,Cash,2,Yes
+CU0280,24,Two Year,974.58,None,Card,2,No
+CU0281,68,Monthly,879.41,Fiber,UPI,1,Yes
+CU0282,58,Monthly,1017.97,DSL,Cash,2,No
+CU0283,22,Two Year,533.16,None,Bank Transfer,4,Yes
+CU0284,17,Monthly,1031.8,Fiber,Cash,2,No
+CU0285,60,Monthly,740.23,Fiber,Bank Transfer,1,No
+CU0286,55,Monthly,1100.29,DSL,Bank Transfer,0,No
+CU0287,46,Monthly,750.73,DSL,UPI,3,No
+CU0288,71,Two Year,299.56,DSL,Bank Transfer,1,No
+CU0289,8,One Year,936.84,Fiber,Card,1,Yes
+CU0290,28,Monthly,652.43,DSL,UPI,1,No
+CU0291,44,Monthly,667.23,Fiber,Cash,0,No
+CU0292,6,Monthly,430.32,DSL,Card,0,No
+CU0293,71,One Year,1106.88,Fiber,UPI,1,Yes
+CU0294,42,Monthly,635.36,Fiber,Cash,2,No
+CU0295,23,Monthly,1096.51,None,Cash,3,No
+CU0296,18,One Year,655.13,DSL,Card,2,No
+CU0297,1,Two Year,545.9,Fiber,Card,1,Yes
+CU0298,43,Two Year,1040.3,Fiber,UPI,1,No
+CU0299,71,Two Year,733.87,DSL,Bank Transfer,3,No
+CU0300,3,Monthly,736.01,None,Bank Transfer,1,No
+CU0301,30,One Year,468.04,Fiber,Bank Transfer,3,No
+CU0302,48,Two Year,649.32,None,Cash,1,No
+CU0303,32,Monthly,844.31,Fiber,Card,2,No
+CU0304,47,Monthly,464.18,DSL,Bank Transfer,2,Yes
+CU0305,52,Monthly,631.4,Fiber,Bank Transfer,1,No
+CU0306,70,Two Year,657.5,Fiber,Cash,2,No
+CU0307,44,Two Year,764.62,None,Bank Transfer,1,Yes
+CU0308,52,Two Year,1075.5,Fiber,UPI,0,No
+CU0309,22,Monthly,684.01,None,Bank Transfer,1,No
+CU0310,11,Two Year,598.09,Fiber,Cash,0,No
+CU0311,8,Monthly,1354.2,Fiber,Bank Transfer,2,No
+CU0312,8,Monthly,654.7,None,Bank Transfer,1,No
+CU0313,60,One Year,708.06,DSL,Bank Transfer,2,Yes
+CU0314,3,One Year,671.27,Fiber,Bank Transfer,0,No
+CU0315,35,Two Year,689.11,DSL,Card,2,No
+CU0316,45,Monthly,767.11,Fiber,Cash,2,No
+CU0317,49,Monthly,952.58,None,UPI,2,No
+CU0318,5,Monthly,838.88,Fiber,Cash,2,Yes
+CU0319,62,Monthly,986.96,DSL,UPI,0,No
+CU0320,32,Two Year,979.69,Fiber,UPI,1,No
+CU0321,2,Monthly,795.88,DSL,Bank Transfer,1,No
+CU0322,10,Monthly,832.79,None,Bank Transfer,3,No
+CU0323,62,Monthly,993.92,DSL,Cash,0,No
+CU0324,68,One Year,505.53,Fiber,Card,1,No
+CU0325,55,Two Year,1299.61,Fiber,UPI,3,No
+CU0326,25,Monthly,637.23,Fiber,Card,2,No
+CU0327,69,Monthly,672.79,None,Bank Transfer,2,Yes
+CU0328,20,Two Year,483.38,Fiber,Card,0,No
+CU0329,17,One Year,489.93,DSL,Card,0,No
+CU0330,56,Monthly,964.29,Fiber,Cash,2,Yes
+CU0331,24,Monthly,1249.44,None,Bank Transfer,0,No
+CU0332,38,Two Year,625.21,DSL,Bank Transfer,4,Yes
+CU0333,48,One Year,826.41,DSL,Bank Transfer,0,No
+CU0334,12,Monthly,798.44,None,Card,1,Yes
+CU0335,67,Monthly,970.05,None,Bank Transfer,2,No
+CU0336,12,Monthly,1238.12,DSL,Cash,1,No
+CU0337,72,Monthly,1084.61,DSL,Bank Transfer,2,Yes
+CU0338,20,Monthly,697.49,DSL,Card,0,No
+CU0339,31,Monthly,866.33,Fiber,Cash,4,No
+CU0340,19,Monthly,888.17,Fiber,UPI,2,No
+CU0341,39,Monthly,745.58,DSL,UPI,2,No
+CU0342,1,Monthly,508.89,DSL,Card,1,No
+CU0343,13,Monthly,574.27,Fiber,Bank Transfer,0,No
+CU0344,38,Two Year,1002.59,Fiber,Card,1,No
+CU0345,50,Monthly,1025.29,DSL,Card,0,No
+CU0346,70,Two Year,704.34,Fiber,Card,2,No
+CU0347,61,Two Year,807.43,DSL,Cash,1,No
+CU0348,67,Two Year,1013.4,DSL,Card,1,No
+CU0349,58,Monthly,375.06,Fiber,Cash,0,No
+CU0350,56,Monthly,651.8,Fiber,Card,6,No
+CU0351,25,One Year,1193.93,Fiber,UPI,2,Yes
+CU0352,66,Monthly,815.85,Fiber,UPI,1,No
+CU0353,70,Monthly,501.57,DSL,UPI,2,No
+CU0354,37,Monthly,775.8,DSL,Cash,1,No
+CU0355,9,One Year,974.72,None,Card,2,No
+CU0356,4,Two Year,199.0,Fiber,Bank Transfer,3,No
+CU0357,36,Monthly,788.78,DSL,Cash,2,No
+CU0358,46,Two Year,668.07,Fiber,UPI,1,No
+CU0359,40,One Year,388.76,DSL,UPI,2,No
+CU0360,65,Monthly,768.02,Fiber,Cash,2,No
+CU0361,39,Monthly,719.97,DSL,Bank Transfer,1,Yes
+CU0362,48,Monthly,744.7,DSL,Bank Transfer,1,No
+CU0363,55,Two Year,673.38,Fiber,Card,2,No
+CU0364,65,One Year,525.31,None,Cash,2,No
+CU0365,44,One Year,429.94,Fiber,Bank Transfer,0,No
+CU0366,41,One Year,598.05,Fiber,Card,3,Yes
+CU0367,6,Monthly,,DSL,Bank Transfer,2,No
+CU0368,47,Two Year,801.28,DSL,UPI,3,No
+CU0369,13,Two Year,734.78,Fiber,UPI,2,No
+CU0370,27,One Year,521.25,Fiber,UPI,2,No
+CU0371,39,Monthly,667.74,Fiber,Cash,2,No
+CU0372,6,Monthly,912.17,None,Bank Transfer,2,No
+CU0373,51,Monthly,861.05,DSL,UPI,1,No
+CU0374,21,Monthly,645.02,Fiber,Cash,1,No
+CU0375,38,One Year,199.0,Fiber,Cash,1,Yes
+CU0376,26,One Year,601.53,None,Card,0,Yes
+CU0377,26,Two Year,643.81,None,UPI,1,No
+CU0378,29,Monthly,550.44,Fiber,Card,0,No
+CU0379,4,Monthly,659.1,DSL,Bank Transfer,2,No
+CU0380,15,Monthly,929.64,Fiber,Bank Transfer,2,No
+CU0381,57,Two Year,741.79,Fiber,Card,2,Yes
+CU0382,9,One Year,967.73,None,UPI,1,No
+CU0383,36,Monthly,418.16,None,Bank Transfer,4,No
+CU0384,11,One Year,682.89,Fiber,Bank Transfer,0,Yes
+CU0385,39,One Year,323.42,None,Card,2,No
+CU0386,47,Monthly,656.15,DSL,Bank Transfer,2,No
+CU0387,34,Monthly,519.96,DSL,Bank Transfer,4,No
+CU0388,56,Monthly,1031.88,DSL,Bank Transfer,2,No
+CU0389,20,Monthly,,DSL,UPI,2,No
+CU0390,41,One Year,973.26,None,Card,3,Yes
+CU0391,20,Monthly,655.54,Fiber,Card,3,No
+CU0392,37,One Year,525.66,DSL,Cash,2,Yes
+CU0393,5,One Year,,Fiber,Cash,2,No
+CU0394,20,Monthly,808.4,DSL,Cash,2,No
+CU0395,51,Two Year,1148.24,Fiber,Card,1,No
+CU0396,57,Monthly,840.72,Fiber,Card,2,No
+CU0397,20,One Year,667.55,DSL,Card,0,No
+CU0398,19,Monthly,708.47,Fiber,Cash,0,No
+CU0399,22,One Year,743.11,Fiber,Bank Transfer,0,No
+CU0400,21,Monthly,1195.86,Fiber,Bank Transfer,0,Yes
+CU0401,72,Monthly,1021.39,DSL,Card,1,Yes
+CU0402,47,Monthly,807.19,Fiber,Bank Transfer,1,No
+CU0403,28,One Year,774.14,Fiber,Cash,0,No
+CU0404,34,One Year,815.86,DSL,Bank Transfer,0,Yes
+CU0405,37,One Year,858.74,None,Card,0,No
+CU0406,40,Monthly,,DSL,Cash,1,Yes
+CU0407,28,One Year,564.3,Fiber,Cash,2,No
+CU0408,71,One Year,977.09,None,Cash,0,No
+CU0409,21,Monthly,754.84,DSL,Cash,2,Yes
+CU0410,31,Monthly,958.72,DSL,Card,5,Yes
+CU0411,1,Monthly,1112.15,DSL,Card,2,No
+CU0412,36,Two Year,864.54,Fiber,UPI,1,No
+CU0413,62,Monthly,828.88,DSL,Card,3,No
+CU0414,72,Monthly,1454.05,DSL,Bank Transfer,1,Yes
+CU0415,35,Two Year,795.54,Fiber,Bank Transfer,2,No
+CU0416,11,Two Year,510.08,Fiber,UPI,1,No
+CU0417,52,Monthly,688.13,Fiber,Cash,0,No
+CU0418,47,Two Year,1091.37,DSL,UPI,1,No
+CU0419,70,Monthly,465.28,Fiber,UPI,2,Yes
+CU0420,37,Two Year,584.46,DSL,Bank Transfer,6,No
+CU0421,1,Monthly,993.41,DSL,UPI,0,No
+CU0422,65,Monthly,690.24,Fiber,Cash,1,No
+CU0423,49,Two Year,725.75,Fiber,UPI,2,No
+CU0424,58,Monthly,986.14,Fiber,UPI,1,Yes
+CU0425,9,Two Year,592.3,Fiber,Cash,0,Yes
+CU0426,33,Monthly,426.91,DSL,Card,3,Yes
+CU0427,33,Monthly,444.45,DSL,Bank Transfer,3,No
+CU0428,20,Two Year,877.99,None,Bank Transfer,1,Yes
+CU0429,61,Monthly,807.01,None,UPI,1,Yes
+CU0430,14,Two Year,597.64,Fiber,Bank Transfer,2,Yes
+CU0431,6,Two Year,495.07,DSL,Bank Transfer,1,Yes
+CU0432,17,Monthly,690.47,Fiber,UPI,4,No
+CU0433,72,Monthly,995.63,Fiber,Cash,1,No
+CU0434,9,Monthly,566.12,Fiber,Cash,1,No
+CU0435,42,Monthly,604.21,Fiber,Cash,1,No
+CU0436,14,Monthly,488.09,DSL,UPI,4,No
+CU0437,29,Monthly,669.17,DSL,UPI,2,No
+CU0438,40,Two Year,824.38,Fiber,Cash,0,No
+CU0439,2,Monthly,1215.34,Fiber,Card,2,Yes
+CU0440,18,One Year,797.91,DSL,Bank Transfer,1,No
+CU0441,43,Monthly,738.19,DSL,Card,2,No
+CU0442,2,Monthly,939.85,DSL,UPI,2,No
+CU0443,36,Monthly,903.17,Fiber,Bank Transfer,1,Yes
+CU0444,44,Monthly,622.91,Fiber,UPI,3,Yes
+CU0445,16,One Year,1256.45,DSL,UPI,0,Yes
+CU0446,12,Monthly,744.64,DSL,Bank Transfer,2,No
+CU0447,36,Two Year,802.0,Fiber,UPI,3,No
+CU0448,52,Two Year,871.3,Fiber,UPI,0,Yes
+CU0449,1,Monthly,826.09,Fiber,Cash,3,Yes
+CU0450,25,Two Year,1085.59,DSL,Bank Transfer,0,Yes
+CU0451,72,Two Year,620.22,Fiber,Bank Transfer,0,Yes
+CU0452,25,Monthly,922.34,DSL,UPI,0,No
+CU0453,24,Two Year,786.21,None,UPI,4,No
+CU0454,54,Monthly,966.2,Fiber,Card,2,No
+CU0455,35,One Year,702.7,Fiber,Card,3,No
+CU0456,29,Monthly,672.91,Fiber,Card,3,No
+CU0457,57,Two Year,911.06,Fiber,UPI,0,No
+CU0458,3,Two Year,828.76,None,Cash,1,No
+CU0459,52,Two Year,569.54,None,Card,0,No
+CU0460,28,Two Year,1046.03,Fiber,Cash,1,No
+CU0461,64,Monthly,911.15,None,Card,2,Yes
+CU0462,53,One Year,733.68,Fiber,Card,2,Yes
+CU0463,68,Monthly,646.99,DSL,UPI,0,No
+CU0464,10,Monthly,830.11,DSL,Bank Transfer,1,No
+CU0465,14,Monthly,895.31,Fiber,UPI,2,Yes
+CU0466,66,Two Year,399.3,DSL,Bank Transfer,0,No
+CU0467,29,One Year,832.65,DSL,Cash,2,No
+CU0468,59,Monthly,893.56,Fiber,Card,1,No
+CU0469,50,Two Year,232.46,None,Cash,1,No
+CU0470,36,Two Year,793.16,Fiber,Bank Transfer,1,Yes
+CU0471,4,Monthly,902.81,Fiber,UPI,2,No
+CU0472,6,Monthly,877.79,None,UPI,4,Yes
+CU0473,52,One Year,926.54,Fiber,Bank Transfer,1,No
+CU0474,8,One Year,677.94,Fiber,Bank Transfer,2,No
+CU0475,1,Monthly,521.22,Fiber,UPI,1,Yes
+CU0476,16,Monthly,354.06,Fiber,Bank Transfer,1,No
+CU0477,66,Monthly,990.29,Fiber,Cash,1,No
+CU0478,46,Monthly,904.67,Fiber,UPI,0,No
+CU0479,52,Monthly,1007.07,DSL,Cash,1,No
+CU0480,47,Monthly,590.47,Fiber,Bank Transfer,1,Yes
+CU0481,41,Monthly,926.84,None,Bank Transfer,6,No
+CU0482,19,One Year,419.41,None,UPI,1,Yes
+CU0483,31,Monthly,558.71,Fiber,Bank Transfer,2,Yes
+CU0484,40,Monthly,777.71,None,Card,0,No
+CU0485,72,Monthly,895.91,None,Card,0,No
+CU0486,65,Two Year,1119.38,None,Cash,0,No
+CU0487,54,Monthly,697.19,DSL,UPI,1,No
+CU0488,59,Monthly,559.54,Fiber,UPI,2,No
+CU0489,59,Monthly,548.23,Fiber,Card,5,No
+CU0490,49,One Year,598.67,None,Bank Transfer,3,Yes
+CU0491,60,Monthly,1238.63,DSL,UPI,2,No
+CU0492,6,Monthly,916.51,None,Cash,3,No
+CU0493,2,Two Year,994.76,DSL,Bank Transfer,2,No
+CU0494,32,One Year,697.42,Fiber,Cash,3,No
+CU0495,4,Monthly,749.64,Fiber,Card,2,No
+CU0496,25,Monthly,903.84,None,UPI,1,No
+CU0497,15,Two Year,638.72,Fiber,UPI,1,No
+CU0498,69,Two Year,685.91,DSL,Bank Transfer,2,No
+CU0499,48,One Year,601.57,None,Bank Transfer,1,No
+CU0500,4,One Year,651.55,Fiber,Bank Transfer,1,No
